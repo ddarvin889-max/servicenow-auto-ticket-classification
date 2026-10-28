@@ -1,25 +1,5 @@
 # Auto Ticket Classification Using ServiceNow
 
-**Tamil Nadu Skill Development Corporation (TNSDC) – Naan Mudhalvan Scheme**
-
----
-
-### 👥 Team Details
-* **Team Id:**6ab6c394534c8646a9cdfba3
-* **Project Title:** Auto Ticket Classification Using ServiceNow
-* **Institution:** Government Arts and Science Collage ,Srivilliputhur.
-* **Department:** Bsc.Computer Science
-* **ServiceNow Instance ID:** dev396233
-
-| S.No | Student Name | Role | Register / Roll Number |
-|:---:|:---|:---|:---:|
-| 1 | Anu Santhiya J | Team Leader | C4S44004 |
-| 2 | Jenifer R | Team Member | C4s44006|
-| 3 | Logadevi P | Team Member | C4s44007|
-| 4 | Madhumitha M | Team Member | c4s44008 |
-
----
-
 ## 📌 Project Abstract
 Incident Management is a core component of IT Service Management (ITSM). In organizations, handling numerous support tickets manually leads to response delays and inaccurate routing. 
 
